@@ -4,7 +4,7 @@
 <p>2.Type Conversion: Perform type conversions such as Integer to Double, String to Integer, and String to Double.</p>
 <img width="411" height="178" alt="Screenshot 2025-08-15 103349" src="https://github.com/user-attachments/assets/5a7180ab-88f2-49a7-8b8b-328d4f2f2af2" />
 <p>3.Scan student’s information and display all the data: Input and display data of students, including their name, enrolment no, branch,etc.</p>
-<img width="524" height="473" alt="Screenshot 2025-08-15 103642" src="https://github.com/user-attachments/assets/a8ba51eb-c885-4669-bebb-267ea566e6a0" />
+<img width="463" height="728" alt="image" src="https://github.com/user-attachments/assets/c60918ca-8320-4047-ab19-c36844777faa" />
 <p>4.	Check Odd or Even Numbers: Determine whether a number is odd or even using control flow within println() method.</p>
 <img width="258" height="66" alt="Screenshot 2025-08-15 103807" src="https://github.com/user-attachments/assets/7f52d1a9-1f61-42c1-9c1a-00c52622fd93" />
 <p>5.Display Month Name: Use a when expression to display the month name based on user input.</p>
