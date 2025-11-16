@@ -34,5 +34,5 @@ Create List of 5 laptops in ArrayList and display all objects information.</p>
 Add first name, last name, age in Person class. In Laptop class add enrollment no, branch, class, lab batch, etc. 
 Create primary and secondary Constructor of both class. 
 Create List of 5 students in ArrayList and display all objects information.</p>
-<img width="552" height="643" alt="Screenshot 2025-08-15 112558" src="https://github.com/user-attachments/assets/12f8125f-f647-4604-aad7-e1650ff1a44f" />
+<img width="374" height="584" alt="image" src="https://github.com/user-attachments/assets/e6249112-9806-4b77-95bd-22c97f8a42f7" />
 <img width="483" height="338" alt="Screenshot 2025-08-15 112648" src="https://github.com/user-attachments/assets/48132ae9-be5e-43b3-9e7c-76e9f17b71cf" />
